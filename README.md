@@ -24,3 +24,10 @@ The website website must meet accessibility standard and can be achieved by ensu
 
 * [Semantic HTML](https://www.w3schools.com/html/html5_semantic_elements.asp)
 * [Image `alt` attributes](https://www.w3schools.com/tags/att_img_alt.asp)
+
+### Mock-up
+
+The following image shows the web application's appearance and functionality including a navigation bar, header image, cards with image and text and a footer at the bottom of the page: (Assets/01-html-css-git-challenge-demo.png)
+
+
+
